@@ -7,7 +7,7 @@ Neste projeto criamos um site responsivo acompanhando as aulas do canal "html.cs
 Neste projeto foram usadas as seguintes tecnologias:
 
 * HTML5 - para marcação de hyper texto;
-* CSS3 - para estilização do ddocumento;
+* CSS3 - para estilização do documento;
 * JavaScript - para ações diversas ao longo da execução.
 
 
